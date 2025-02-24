@@ -1,6 +1,12 @@
 # MRF-based-Video-Anomaly-Detection
 
-This project introduces an advanced video anomaly detection system, combining frame extraction, and image segmentation with Markov Random Fields (MRFs), and autoencoders. The primary objective is to develop a robust framework capable of automatically identifying unusual activities or patterns in surveillance videos, enhancing security and safety by distinguishing abnormal behavior without relying on predefined rules.
+This project introduces an advanced video anomaly detection system, combining frame extraction, and image segmentation with Markov Random Fields (MRFs), and autoencoders. The primary objective is to develop a robust framework capable of automatically identifying unusual activities or patterns in surveillance videos, enhancing security and safety by distinguishing abnormal behavior without relying on predefined rules. This repository contains the implementation code for the paper:
+> A. Chennupati, B. Prahas, B. A. Ghali and M. K, "Real Time Object Detection using Markov Random Fields: Video Anomaly Detection," 2024 5th International Conference for Emerging Technology (INCET), Belgaum, India, 2024, pp. 1-7, doi: 10.1109/INCET61516.2024.10593597.
+
+## Abstract
+This research focuses on the field of video anomaly detection, using the combined strength of the Markov Random Fields (MRFs) and autoencoder systems. The image-segmentation model proposed is based on the use of MRF, which is being used its spatial-temporal abilities to, for one, improve its ability to differentiate abnormalities in video content. The use of MRFs and autoencoders for the integration of the MRFs and autoencoders forms a comprehensive representation of the video data, improving the detection of abnormal activities. A wide range of testing is performed on videos randomly selected from the AVENUE dataset in order to emphasize the effectiveness of the proposed method, which outperforms other approaches. In particular, the approach significantly reduces the computation time of the anomaly detection by 60% when compared to the conventional frame extraction method. This efficiency improvement is an indication of the feasibility of this model in detecting anomalies in practical surveillance applications and has the required attributes that can be used to detect an anomaly in the surveillance system within a short time. The results reveal the potential benefits of the proposed framework for the improvement of the anomaly detection accuracy and operational effectiveness, adding to its practical viability being deployed in surveillance settings.
+
+
 
 ## Overview
 
