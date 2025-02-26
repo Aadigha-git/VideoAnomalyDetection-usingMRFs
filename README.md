@@ -1,7 +1,6 @@
 # MRF-based-Video-Anomaly-Detection
 
-This project introduces an advanced video anomaly detection system, combining frame extraction, and image segmentation with Markov Random Fields (MRFs), and autoencoders. The primary objective is to develop a robust framework capable of automatically identifying unusual activities or patterns in surveillance videos, enhancing security and safety by distinguishing abnormal behavior without relying on predefined rules.
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+This project introduces an advanced video anomaly detection system, combining frame extraction, and image segmentation with Markov Random Fields (MRFs), and autoencoders. The primary objective is to develop a robust framework capable of automatically identifying unusual activities or patterns in surveillance videos, enhancing security and safety by distinguishing abnormal behavior without relying on predefined rules.<br> [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <br>
 This repository contains the implementation code for the paper:
 > A. Chennupati, B. Prahas, B. A. Ghali and M. K, "Real Time Object Detection using Markov Random Fields: Video Anomaly Detection," 2024 5th International Conference for Emerging Technology (INCET), Belgaum, India, 2024, pp. 1-7, doi: 10.1109/INCET61516.2024.10593597.
 
